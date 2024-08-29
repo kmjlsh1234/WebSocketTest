@@ -1,0 +1,53 @@
+{
+    "Baccarat":[
+        {
+            "gradeName": "루키",
+            "image": "BaccaratRoom",
+            "condition": 1,
+            "min": 1,
+            "max": 10000
+        },
+        {
+            "gradeName": "메이저",
+            "image": "BaccaratRoom",
+            "condition": 1,
+            "min": 100,
+            "max": 100000
+        },
+        {
+            "gradeName": "세미프로",
+            "image": "BaccaratRoom",
+            "condition": 1,
+            "min": 1000,
+            "max": 500000
+        },
+        {
+            "gradeName": "프로",
+            "image": "BaccaratRoom",
+            "condition": 1,
+            "min": 5000,
+            "max": 1000000
+        },
+        {
+            "gradeName": "마스터",
+            "image": "BaccaratRoom",
+            "condition": 1,
+            "min": 10000,
+            "max": 5000000
+        },
+        {
+            "gradeName": "프레스티지",
+            "image": "BaccaratRoom",
+            "condition": 1,
+            "min": 50000,
+            "max": 10000000
+        },
+        {
+            "gradeName": "VIP",
+            "image": "BaccaratRoom",
+            "condition": 1,
+            "min": 100000,
+            "max": 50000000
+        }
+    ]
+}

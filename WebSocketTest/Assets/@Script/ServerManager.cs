@@ -1,6 +1,4 @@
-using System;
-using System.Collections;
-using System.Collections.Generic;
+using TMPro;
 using UnityEngine;
 using UnityEngine.UI;
 using WebSocketSharp;
@@ -8,7 +6,7 @@ using WebSocketSharp;
 public class ServerManager : MonoBehaviour
 {
     public Button _sendButton;
-    public Text _logText;
+    public TMP_Text _logText;
 
     WebSocket ws;
 
